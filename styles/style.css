@@ -65,11 +65,13 @@ h6 {
 }
 .container {
   display: flex;
-  margin-left: 70px;
+  margin-left: 100px;
+  width: 1200px;
+  height: 1000px;
+  flex-wrap: wrap;
 }
 .child {
-  margin-left: 40px;
-  margin-bottom: 70px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+  height: 400px;
 }
-
-
